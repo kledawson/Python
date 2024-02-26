@@ -1,9 +1,3 @@
-'''
-Dawson Le
-CIS 41A   Winter 2023
-Unit B, Problem B
-'''
-
 SMALL_BEAD_PRICE = 10.20
 MEDIUM_BEAD_PRICE = 8.52
 LARGE_BEAD_PRICE = 7.98
