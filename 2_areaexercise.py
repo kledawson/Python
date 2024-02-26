@@ -1,9 +1,3 @@
-'''
-Dawson Le
-CIS 41A   Fall 2021
-Unit A, Exercise A
-'''
-
 height = 2.9
 width = 7.1
 
