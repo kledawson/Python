@@ -1,9 +1,3 @@
-'''
-Dawson Le
-CIS 41A   Winter 2023
-Unit C, Problem C
-'''
-
 a = 9
 b = 14
 
